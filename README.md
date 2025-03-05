@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌍 Engineer specializing in Cloud & DevSecOps, building scalable and secure cloud solutions. ☁️<br><br>💼 Experienced in automating infrastructure, multi-cloud integrations, and continuous deployment. 🚀<br><br>🤝 Skilled in OpenStack, Terraform, and Kubernetes, with hands-on projects in Azure and proactive community engagement.
 
 
